@@ -1,5 +1,5 @@
-<img align="left" src="https://github.com/alper5li/alper5li/assets/52427612/00799587-f572-49e8-8f49-a075c3ddd97e" width="250px" height="400px" style="display:inline;"><img align="right" src="https://github.com/alper5li/alper5li/assets/52427612/0200cb10-869d-46a0-9025-453e15e053c2"
- width="250px" height="400px"  style="display:inline;">
+<img align="left" src="https://github.com/alper5li/alper5li/assets/52427612/00799587-f572-49e8-8f49-a075c3ddd97e" width="20%" height="200px" style="display:inline;"><img align="right" src="https://github.com/alper5li/alper5li/assets/52427612/0200cb10-869d-46a0-9025-453e15e053c2"
+ width="20%" height="200px"  style="display:inline;">
 <br>
 <p align="center">
     <h1 align="center">♠&emsp;Alper Besli&emsp;♠</h1>
