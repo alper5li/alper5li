@@ -12,6 +12,7 @@
     <img src="https://komarev.com/ghpvc/?username=alper5li&color=gray">
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alper5li&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+     <a href="https://leetcode.com/drknzz/"><img width="37%" src="https://leetcode.card.workers.dev/alperbesli?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alper5li&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
 
