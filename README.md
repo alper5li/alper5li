@@ -15,4 +15,9 @@
      <a href="https://leetcode.com/alperbesli/"><img width="37%" src="https://leetcode.card.workers.dev/alperbesli?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
     <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alper5li&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
+<p align="center">
+  <a href="https://leetcode.com/alperbesli">
+    <img src="https://skillicons.dev/icons?i=c,cs,dotnet,java,py,r,linux,mysql,sqlite,html,css,js,bootstrap,react" />
+  </a>
+</p>
 
