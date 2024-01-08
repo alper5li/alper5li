@@ -5,7 +5,7 @@
     <h1 align="center">♠&emsp;Alper Besli&emsp;♠</h1>
 </p>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1000&pause=2000&color=DC0C0A&center=true&vCenter=true&multiline=true&random=true&width=500&height=60&lines=Senior+software+engineering+student+;who+studies+on+Artificial+Intelligence" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1000&pause=2000&color=DC0C0A&center=true&vCenter=true&multiline=true&random=true&width=500&height=60&lines=who+studies+on+Artificial+Intelligence+;Senior+software+engineering+student" alt="Typing SVG" />
 </p>
 <br>
 <p align="center">
